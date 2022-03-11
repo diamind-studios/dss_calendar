@@ -5,9 +5,6 @@ from pprint import pprint
 # variables in calculation
 # equinox could be 19th-21st
 
-
-
-
 # Different dates of creation (BC)
 age_coefficient = [
     {'date': 3925, 'source': ['Ken Johnson']},
